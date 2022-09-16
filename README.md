@@ -7,7 +7,7 @@
 -📚 Todos os meu projetos estão disponiveis em [Projects]
 <br><br>
 
-## ⚒ &nbsp;Tecnologias que tenho conhecimento (intermediario - Avançado) ⚒
+## ⚒ &nbsp;Tecnologias que tenho conhecimento (Intermediario - Avançado) ⚒
 
 <h5>Frond-End:</h5>
 <div class="row">
