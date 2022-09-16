@@ -4,7 +4,7 @@
 
 -💻 Atualmente sou estagiario na empresa Religare(https://espacoreligare.com.br/)
 
--📚 Todos os meu projetos estão disponiveis em [Portifolio]
+-📚 Todos os meu projetos estão disponiveis em [Projects]
 <br><br>
 
 ## ⚒ &nbsp;Tecnologias que tenho conhecimento (intermediario) ⚒
