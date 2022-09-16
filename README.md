@@ -1,4 +1,4 @@
-<h1> Opa eae! Eu sou Felipe Gianoto✌️</h1>
+<h1> Opa! Eu sou Felipe Gianoto✌️</h1>
 
 -🔥 Desenvolvedor Full Stack 
 
