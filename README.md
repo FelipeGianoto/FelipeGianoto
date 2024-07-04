@@ -2,8 +2,6 @@
 
 -🔥 Desenvolvedor Full Stack 
 
--💻 Atualmente sou estagiario na empresa Religare(https://espacoreligare.com.br/)
-
 -📚 Todos os meu projetos estão disponiveis em [Projects]
 <br><br>
 
